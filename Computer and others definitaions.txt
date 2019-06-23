@@ -1,0 +1,4 @@
+Computer:
+1. Computer: A computer is an electronic device that stores and processes data.
+2. A computer consists of a CPUm memory, storage devices, input devices, output devices and communication devices.
+3. CPUs are built on small silicon semiconductor chips that contain millions of tiny electric switches, called transistor.
